@@ -33,7 +33,9 @@ Tinkering with personal AI infrastructure: Assist Agent, self-hosted toolchains,
 
 Music — ヨルシカ, あたらよ, and Midwest Emo have accompanied most of the thinking here; also plenty of instrumental.
 
-Sports — badminton (haven't played in a while).
+Sports — badminton (haven't played in a while); hiking (a 3-day, 2-night field expedition to Mount Qiyun with the university's field-research club).
+
+Photography — landscape, street.
 
 Anime — 少女終末旅行, のんのんびより; 響け！ユーフォニアム, けいおん！, ぼっち・ざ・ろっく！; うさぎドロップ, スーパーカブ, ゆるキャン△; 罗小黑战记, 葬送のフリーレン.
 
@@ -87,7 +89,9 @@ RoboMaster 2025/2026 Robowalker team member.
 
 音乐 —— ヨルシカ、あたらよ 和 Midwest Emo 陪伴了大部分思考时刻，也常听一些轻音乐。
 
-运动 —— 羽毛球（很久没有打过了）
+运动 —— 羽毛球（很久没有打过了）、徒步（参加过科考社团三天两夜的齐云山考察）
+
+摄影 —— 风光、扫街
 
 动漫 —— 少女终末旅行、悠哉日常大王；京吹、轻音、孤独摇滚；白兔糖、本田小狼、摇曳露营；罗小黑战记、葬送的芙丽莲
 
