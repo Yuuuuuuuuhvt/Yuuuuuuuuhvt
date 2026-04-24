@@ -5,10 +5,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=400&size=30&duration=3500&pause=1200&color=2C1A0E&center=true&vCenter=true&width=620&lines=World+Model+%C2%B7+AI+Agent+%C2%B7+Robotics;%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B+%C2%B7+AI+%E6%99%BA%E8%83%BD%E4%BD%93+%C2%B7+%E6%9C%BA%E5%99%A8%E4%BA%BA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=400&size=30&duration=3500&pause=1200&color=2C1A0E&center=true&vCenter=true&width=620&lines=World+Model+%C2%B7+AI+Agent+%C2%B7+Robotics" alt="Typing SVG" />
 </div>
 
-<br/>
+<p align="center">
+  <sub><a href="#about">English</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#关于">中文</a></sub>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=B5592A&height=1&width=520" width="520"/>
