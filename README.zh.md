@@ -5,11 +5,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=400&size=30&duration=3500&pause=1200&color=2C1A0E&center=true&vCenter=true&width=620&lines=World+Model+%C2%B7+AI+Agent+%C2%B7+Robotics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=400&size=30&duration=3500&pause=1200&color=2C1A0E&center=true&vCenter=true&width=620&lines=%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B+%C2%B7+AI+%E6%99%BA%E8%83%BD%E4%BD%93+%C2%B7+%E6%9C%BA%E5%99%A8%E4%BA%BA" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <sub><b>English</b>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="./README.zh.md">中文</a></sub>
+  <sub><a href="./README.md">English</a>&nbsp;&nbsp;·&nbsp;&nbsp;<b>中文</b></sub>
 </p>
 
 <div align="center">
@@ -19,55 +19,55 @@
 <br/>
 
 <p align="center">
-  <em>I study how machines build internal models of the world —<br/>
-  and what it means for a model to understand rather than merely predict.</em>
+  <em>研究机器如何在内部建构世界的模型 ——<br/>
+  以及「理解」与「预测」之间的分别。</em>
 </p>
 
 <br/><br/>
 
-## About
+## 关于
 
-A third-year undergraduate, currently doing research in world models, based in Beijing.
+本科大三在读，在做世界模型方向研究，现居北京。
 
-Interests revolve around representation learning, embodied intelligence, and AI Agent System.
+兴趣围绕表示学习、具身智能与 AI Agent System。
 
-Tinkering with personal AI infrastructure: Assist Agent, self-hosted toolchains, multi-platform dev environments.
+折腾个人 AI 基础设施：Assist Agent、自托管工具链、多平台开发环境。
 
-Music — ヨルシカ, あたらよ, and Midwest Emo have accompanied most of the thinking here; also plenty of instrumental.
+音乐 —— ヨルシカ、あたらよ 和 Midwest Emo 陪伴了大部分思考时刻，也常听一些轻音乐。
 
-Sports — badminton (haven't played in a while); hiking (a 3-day, 2-night field expedition to Mount Qiyun with the university's field-research club).
+运动 —— 羽毛球（很久没有打过了）、徒步（参加过科考社团三天两夜的齐云山考察）
 
-Photography — landscape, street.
+摄影 —— 风光、扫街
 
-Anime — 少女終末旅行, のんのんびより; 響け！ユーフォニアム, けいおん！, ぼっち・ざ・ろっく！; うさぎドロップ, スーパーカブ, ゆるキャン△; 罗小黑战记, 葬送のフリーレン.
+动漫 —— 少女终末旅行、悠哉日常大王；京吹、轻音、孤独摇滚；白兔糖、本田小狼、摇曳露营；罗小黑战记、葬送的芙丽莲
 
 <br/>
 
-## Focus
+## 方向
 
 <table border="0" align="center">
 <tr>
 <td valign="top" width="33%">
 
-**World Models**
+**世界模型**
 
-How to build representations of Action in the image domain / construct World Model architectures where Action and Video mutually reinforce each other — aiming to raise success rates on embodied-intelligence tasks.
+如何构建 Action 在图像域内的表示/构建 Action 与 Video 相互增强的 World Model 架构，以求增强具身智能任务的成功率。
 
 </td>
 <td valign="top" width="33%">
 
 **AI Agent**
 
-AI Agent Benchmark construction: probing the capability frontier of agents.
+AI Agent BenchMark 构建：探索 Agent 的能力边界
 
-Computer / Mobile Using Tools: building agents' tool-use capabilities.
+Computer/Mobile Using Tools：Agent 工具能力构建
 
 </td>
 <td valign="top" width="33%">
 
-**Robotics**
+**机器人**
 
-RoboMaster 2025/2026 Robowalker team member.
+RoboMaster 2025/2026 Robowalker队员
 
 </td>
 </tr>
