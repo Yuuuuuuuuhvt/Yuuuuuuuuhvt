@@ -29,7 +29,7 @@ Third-year undergraduate working toward world models research, based in Beijing.
 
 I also build personal AI infrastructure: always-on agents, self-hosted toolchains, multi-platform dev environments. I find that the best way to understand a system is to depend on it.
 
-Outside research, I spend a disproportionate amount of time with music — Yorushika, Atarayo, and Midwest Emo have accompanied most of the thinking here.
+Outside research, I spend a disproportionate amount of time with music — ヨルシカ, あたらよ, and Midwest Emo have accompanied most of the thinking here.
 
 <br/>
 
@@ -114,11 +114,14 @@ LLM 原生的智能体架构、MCP 服务器工具链，以及支撑长时运行
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-2C1A0E?style=flat-square&logo=python&logoColor=EFE6D8)
+![C++](https://img.shields.io/badge/C%2B%2B-2C1A0E?style=flat-square&logo=cplusplus&logoColor=EFE6D8)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2C1A0E?style=flat-square&logo=pytorch&logoColor=EFE6D8)
-![TypeScript](https://img.shields.io/badge/TypeScript-2C1A0E?style=flat-square&logo=typescript&logoColor=EFE6D8)
+![CUDA](https://img.shields.io/badge/CUDA-2C1A0E?style=flat-square&logo=nvidia&logoColor=EFE6D8)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-2C1A0E?style=flat-square&logo=huggingface&logoColor=EFE6D8)
+![OpenCV](https://img.shields.io/badge/OpenCV-2C1A0E?style=flat-square&logo=opencv&logoColor=EFE6D8)
+![ROS](https://img.shields.io/badge/ROS-2C1A0E?style=flat-square&logo=ros&logoColor=EFE6D8)
 ![Docker](https://img.shields.io/badge/Docker-2C1A0E?style=flat-square&logo=docker&logoColor=EFE6D8)
 ![Linux](https://img.shields.io/badge/Linux-2C1A0E?style=flat-square&logo=linux&logoColor=EFE6D8)
-![LangGraph](https://img.shields.io/badge/LangGraph-2C1A0E?style=flat-square&logo=langchain&logoColor=EFE6D8)
 
 </div>
 
