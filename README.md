@@ -25,7 +25,7 @@
 
 ## About
 
-Graduate researcher in world models, based in Beijing. My work sits at the intersection of representation learning, embodied intelligence, and AI agent systems — with a recurring interest in the gap between statistical correlation and genuine world understanding.
+Third-year undergraduate working toward world models research, based in Beijing. My interests sit at the intersection of representation learning, embodied intelligence, and AI agent systems — with a recurring focus on the gap between statistical correlation and genuine world understanding.
 
 I also build personal AI infrastructure: always-on agents, self-hosted toolchains, multi-platform dev environments. I find that the best way to understand a system is to depend on it.
 
@@ -71,7 +71,7 @@ Embodied intelligence and the sim-to-real gap — where world models and physica
 
 ## 关于
 
-世界模型方向的研究生，现居北京。研究围绕表示学习、具身智能与 AI Agent 系统展开 —— 长期关注统计相关性与真正的世界理解之间的差距。
+本科大三，朝世界模型方向做研究，现居北京。兴趣围绕表示学习、具身智能与 AI Agent 系统 —— 长期关注统计相关性与真正的世界理解之间的差距。
 
 同时在折腾个人 AI 基础设施：常驻 Agent、自托管工具链、多平台开发环境。理解一个系统最好的方式，是让自己依赖它。
 
