@@ -12,6 +12,10 @@
   <sub><a href="./README.md">English</a>&nbsp;&nbsp;·&nbsp;&nbsp;<b>中文</b></sub>
 </p>
 
+<p align="center">
+  <sub><a href="https://yurun-cv.pages.dev">个人主页 / 简历网页</a></sub>
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=B5592A&height=1&width=520" width="520"/>
 </div>
