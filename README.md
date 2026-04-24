@@ -131,6 +131,7 @@ RoboMaster 2025/2026 Robowalker队员
 
 ![Python](https://img.shields.io/badge/Python-2C1A0E?style=flat-square&logo=python&logoColor=EFE6D8)
 ![C++](https://img.shields.io/badge/C%2B%2B-2C1A0E?style=flat-square&logo=cplusplus&logoColor=EFE6D8)
+![Go](https://img.shields.io/badge/Go-2C1A0E?style=flat-square&logo=go&logoColor=EFE6D8)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2C1A0E?style=flat-square&logo=pytorch&logoColor=EFE6D8)
 ![CUDA](https://img.shields.io/badge/CUDA-2C1A0E?style=flat-square&logo=nvidia&logoColor=EFE6D8)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-2C1A0E?style=flat-square&logo=huggingface&logoColor=EFE6D8)
