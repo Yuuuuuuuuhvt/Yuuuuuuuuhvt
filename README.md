@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=400&size=30&duration=3500&pause=1200&color=2C1A0E&center=true&vCenter=true&width=620&lines=World+Model+%C2%B7+AI+Agent+%C2%B7+Robotics;%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B+%C2%B7+AI+%E6%99%BA%E8%83%BD%E4%BD%93+%C2%B7+%E6%9C%BA%E5%99%A8%E4%BA%BA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=400&size=30&duration=3500&pause=1200&color=2C1A0E&center=true&vCenter=true&width=620&lines=World+Model+%C2%B7+AI+Agent+%C2%B7+Robotics" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -56,6 +56,52 @@ LLM-native agent architectures, MCP server toolchains, and the infrastructure la
 **Robotics**
 
 Embodied intelligence and the sim-to-real gap — where world models and physical systems meet.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=B5592A&height=1&width=520" width="520"/>
+</div>
+
+<br/>
+
+## 关于
+
+世界模型方向的研究生，现居北京。研究围绕表示学习、具身智能与 AI Agent 系统展开 —— 长期关注统计相关性与真正的世界理解之间的差距。
+
+同时在折腾个人 AI 基础设施：常驻 Agent、自托管工具链、多平台开发环境。理解一个系统最好的方式，是让自己依赖它。
+
+研究之外，把大量时间给了音乐 —— ヨルシカ、あたらよ 和 Midwest Emo 陪伴了大部分思考时刻。
+
+<br/>
+
+## 方向
+
+<table border="0" align="center">
+<tr>
+<td valign="top" width="33%">
+
+**世界模型**
+
+发展式学习框架、数据高效的表示，以及智能体如何在无监督下建立对环境的模型这一问题。
+
+</td>
+<td valign="top" width="33%">
+
+**AI 智能体**
+
+LLM 原生的智能体架构、MCP 服务器工具链，以及支撑长时运行自治系统的基础设施层。
+
+</td>
+<td valign="top" width="33%">
+
+**机器人**
+
+具身智能与 sim-to-real 的鸿沟 —— 世界模型与物理系统交汇之处。
 
 </td>
 </tr>
