@@ -13,7 +13,13 @@
 </p>
 
 <p align="center">
-  <sub><a href="https://yurun-cv.pages.dev">个人主页 / 简历网页</a></sub>
+  <sub>
+    <a href="https://luonto.me">个人主页</a>
+    &nbsp;·&nbsp;
+    <a href="https://blog.luonto.me">博客</a>
+    &nbsp;·&nbsp;
+    <a href="https://cv.luonto.me">简历</a>
+  </sub>
 </p>
 
 <div align="center">
