@@ -123,6 +123,10 @@ RoboMaster 2025/2026 Robowalker队员
   <sub>Beijing · 2026 · <a href="mailto:yurunjin@mail.ustc.edu.cn">yurunjin@mail.ustc.edu.cn</a></sub>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuuuuuuuuhvt&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=B5592A&style=flat" alt="访问量" />
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=EFE6D8&height=6" width="100%"/>
 </div>
