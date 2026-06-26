@@ -37,11 +37,11 @@
 
 ## About
 
-A third-year undergraduate, currently doing research in world models, based in Beijing.
+A third-year USTC undergraduate, currently doing research in world models, based in Beijing.
 
-Interests revolve around representation learning, embodied intelligence, and AI Agent System.
+Interests revolve around representation learning, embodied intelligence, and AI agent systems.
 
-Tinkering with personal AI infrastructure: Assist Agent, self-hosted toolchains, multi-platform dev environments.
+Tinkering with personal AI infrastructure: Assist Agent, self-hosted toolchains, multi-platform development environments, and public web surfaces under `luonto.me`.
 
 Music — ヨルシカ, あたらよ, and Midwest Emo have accompanied most of the thinking here; also plenty of instrumental.
 
