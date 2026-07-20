@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=400&size=30&duration=3500&pause=1200&color=2C1A0E&center=true&vCenter=true&width=620&lines=World+Model+%C2%B7+AI+Agent+%C2%B7+Robotics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=400&size=30&duration=3500&pause=1200&color=2C1A0E&center=true&vCenter=true&width=620&lines=World+Model+%C2%B7+AI+Agent+%C2%B7+Robotics" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 ## About
 
-A third-year USTC undergraduate, currently doing research in world models, based in Beijing.
+An undergraduate at USTC, currently doing research in world models, based in Beijing.
 
 Interests revolve around representation learning, embodied intelligence, and AI agent systems.
 
@@ -104,6 +104,18 @@ RoboMaster 2025/2026 Robowalker team member.
 
 <br/>
 
+## Featured Surfaces
+
+<div align="center">
+
+[![Homepage](https://img.shields.io/badge/luonto.me-Homepage-B5592A?style=flat-square&labelColor=2C1A0E)](https://luonto.me)
+[![Blog](https://img.shields.io/badge/blog.luonto.me-Blog-B5592A?style=flat-square&labelColor=2C1A0E)](https://blog.luonto.me)
+[![CV](https://img.shields.io/badge/cv.luonto.me-CV-B5592A?style=flat-square&labelColor=2C1A0E)](https://cv.luonto.me)
+
+</div>
+
+<br/>
+
 ## Stats
 
 <div align="center">
@@ -120,11 +132,7 @@ RoboMaster 2025/2026 Robowalker team member.
 <br/>
 
 <p align="center">
-  <sub>Beijing · 2026 · <a href="mailto:yurunjin@mail.ustc.edu.cn">yurunjin@mail.ustc.edu.cn</a></sub>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yuuuuuuuuhvt&label=Profile%20Views&color=B5592A&style=flat" alt="Profile Views" />
+  <sub>Beijing · <a href="mailto:yurunjin@mail.ustc.edu.cn">yurunjin@mail.ustc.edu.cn</a></sub>
 </p>
 
 <div align="center">

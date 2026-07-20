@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=EB+Garamond&weight=400&size=30&duration=3500&pause=1200&color=2C1A0E&center=true&vCenter=true&width=620&lines=%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B+%C2%B7+AI+%E6%99%BA%E8%83%BD%E4%BD%93+%C2%B7+%E6%9C%BA%E5%99%A8%E4%BA%BA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=400&size=30&duration=3500&pause=1200&color=2C1A0E&center=true&vCenter=true&width=620&lines=%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B+%C2%B7+AI+%E6%99%BA%E8%83%BD%E4%BD%93+%C2%B7+%E6%9C%BA%E5%99%A8%E4%BA%BA" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 ## 关于
 
-中国科学技术大学本科大三在读，在做世界模型方向研究，现居北京。
+中国科学技术大学本科生，在做世界模型方向研究，现居北京。
 
 兴趣围绕表示学习、具身智能与 AI Agent 系统。
 
@@ -104,6 +104,18 @@ RoboMaster 2025/2026 Robowalker队员
 
 <br/>
 
+## 公开站点
+
+<div align="center">
+
+[![个人主页](https://img.shields.io/badge/luonto.me-%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-B5592A?style=flat-square&labelColor=2C1A0E)](https://luonto.me)
+[![博客](https://img.shields.io/badge/blog.luonto.me-%E5%8D%9A%E5%AE%A2-B5592A?style=flat-square&labelColor=2C1A0E)](https://blog.luonto.me)
+[![简历](https://img.shields.io/badge/cv.luonto.me-%E7%AE%80%E5%8E%86-B5592A?style=flat-square&labelColor=2C1A0E)](https://cv.luonto.me)
+
+</div>
+
+<br/>
+
 ## Stats
 
 <div align="center">
@@ -120,11 +132,7 @@ RoboMaster 2025/2026 Robowalker队员
 <br/>
 
 <p align="center">
-  <sub>Beijing · 2026 · <a href="mailto:yurunjin@mail.ustc.edu.cn">yurunjin@mail.ustc.edu.cn</a></sub>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yuuuuuuuuhvt&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=B5592A&style=flat" alt="访问量" />
+  <sub>Beijing · <a href="mailto:yurunjin@mail.ustc.edu.cn">yurunjin@mail.ustc.edu.cn</a></sub>
 </p>
 
 <div align="center">
