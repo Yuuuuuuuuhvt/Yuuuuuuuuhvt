@@ -119,8 +119,8 @@ RoboMaster 2025/2026 Robowalker team member.
 ## Stats
 
 <div align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=Yuuuuuuuuhvt&show_icons=true&hide_border=true&bg_color=FAF6EE&title_color=7A3E1E&text_color=2C1A0E&icon_color=B5592A&rank_icon=github&hide=stars" />
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuuuuuuuhvt&layout=compact&hide_border=true&bg_color=FAF6EE&title_color=7A3E1E&text_color=2C1A0E&langs_count=6" />
+  <img height="168" src="https://github-stats-extended.vercel.app/api?username=Yuuuuuuuuhvt&show_icons=true&hide_border=true&bg_color=FAF6EE&title_color=7A3E1E&text_color=2C1A0E&icon_color=B5592A&rank_icon=github&hide=stars" />
+  <img height="168" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yuuuuuuuuhvt&layout=compact&hide_border=true&bg_color=FAF6EE&title_color=7A3E1E&text_color=2C1A0E&langs_count=6" />
 </div>
 
 <br/><br/>
